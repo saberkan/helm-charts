@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ruby-ex:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-02-12T10:44:06.717418+01:00"
+    description: Mon application ruby ex
+    digest: 19770722532a5147a3760b9db718dd77668a88895d275a1102e86db3d8e7a443
+    name: ruby-ex
+    type: application
+    urls:
+    - ruby-ex-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-02-12T10:44:06.71622+01:00"
