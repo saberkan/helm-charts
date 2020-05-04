@@ -3,7 +3,7 @@ entries:
   ruby-ex:
   - apiVersion: v2
     appVersion: 1.17.0
-    created: "2020-05-02T16:32:05.559578+02:00"
+    created: "2020-05-04T14:02:51.116947+02:00"
     description: Mon application ruby ex
     digest: 00be5ce691574daf96c82e5a0296a0ffc6ddd3a12ae612023439a1aa7ed371b6
     name: ruby-ex
@@ -13,7 +13,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-02T16:32:05.559082+02:00"
+    created: "2020-05-04T14:02:51.115678+02:00"
     description: Mon application ruby ex
     digest: 19770722532a5147a3760b9db718dd77668a88895d275a1102e86db3d8e7a443
     name: ruby-ex
@@ -21,10 +21,21 @@ entries:
     urls:
     - ruby-ex-0.1.0.tgz
     version: 0.1.0
+  sb-project:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-04T14:02:51.121523+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 852e91229a38728f38775d11a732b43ed8ea52e20f75a5a0052954e342638fdd
+    name: sb-project
+    type: application
+    urls:
+    - sb-project/sb-project-0.1.0.tgz
+    version: 0.1.0
   task:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-02T16:32:05.560059+02:00"
+    created: "2020-05-04T14:02:51.122567+02:00"
     description: A Helm chart for Kubernetes
     digest: d4e429a4edba588b63bd514f6eed6a12739a597976863e8149bd564b7f6c6162
     name: task
@@ -32,4 +43,4 @@ entries:
     urls:
     - tasks/task-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-02T16:32:05.558402+02:00"
+generated: "2020-05-04T14:02:51.112867+02:00"
